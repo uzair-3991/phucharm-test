@@ -8,4 +8,4 @@ print("theja bhi kr hi laye, ke akhde ho")
 
 print("theja the 4tha akhate,bhi kr hi laye, ke akhde ho")
 
-print(pull na ky"
+print("sae code likhya karo kanjraonpull na ky")
